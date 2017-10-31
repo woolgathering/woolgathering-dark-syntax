@@ -4,9 +4,9 @@
 
 > The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
 
-Customization of the atom-dark-syntax package, adjusted to work well with SuperCollider by highlighting symbols and argument tags.
+Customization of the [One Dark Syntax](https://github.com/atom/one-dark-syntax) theme, adjusted to work well with SuperCollider by highlighting symbols and argument tags.
 
-Atom Dark Syntax has a matching [UI theme](https://atom.io/themes/one-dark-ui).
+One Dark Syntax has a matching [UI theme](https://atom.io/themes/one-dark-ui).
 
 ### Install
 
