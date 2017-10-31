@@ -1,13 +1,13 @@
 {
   "name": "woolgathering-dark-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A woolgathering syntax theme",
   "keywords": [
     "dark",
     "blue",
     "syntax",
-    "woolgathering"
+    "supercollider"
   ],
   "repository": "https://github.com/woolgathering/woolgathering-dark-syntax.git",
   "license": "MIT",
