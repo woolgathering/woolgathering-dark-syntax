@@ -1,12 +1,13 @@
 {
-  "name": "one-dark-syntax",
+  "name": "woolgathering-dark-syntax",
   "theme": "syntax",
   "version": "1.8.0",
-  "description": "A dark syntax theme",
+  "description": "A woolgathering syntax theme",
   "keywords": [
     "dark",
     "blue",
-    "syntax"
+    "syntax",
+    "woolgathering"
   ],
   "repository": "https://github.com/atom/one-dark-syntax",
   "license": "MIT",
