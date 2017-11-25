@@ -1,0 +1,17 @@
+{
+  "name": "woolgathering-dark-syntax",
+  "theme": "syntax",
+  "version": "1.8.0",
+  "description": "A woolgathering syntax theme",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax",
+    "supercollider"
+  ],
+  "repository": "https://github.com/woolgathering/woolgathering-dark-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
